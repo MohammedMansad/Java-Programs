@@ -10,6 +10,7 @@ public class Arrays {
 			System.out.println(i);
 		}
 		System.out.println("HAHAHA");
+		System.out.println("hihihiiiih");
 			}
 
 }
