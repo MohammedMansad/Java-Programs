@@ -9,7 +9,7 @@ public class Arrays {
 		for (int i : a) {
 			System.out.println(i);
 		}
-		
+		System.out.println("HAHAHA");
 			}
 
 }
