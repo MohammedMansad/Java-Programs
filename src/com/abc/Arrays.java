@@ -16,6 +16,7 @@ public class Arrays {
 			System.out.println(a[i]);
 		}
 		System.out.println("HAHAHA");
+		System.out.println("hihihiiiih");
 			}
 
 }
