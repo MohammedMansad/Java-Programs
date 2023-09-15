@@ -13,11 +13,16 @@ public class Student {
 		al.add("manchu");
 		al.add("ziyad");
 		al.add("ziya");
-		Iterator<String>itr=al.iterator();
-		while(itr.hasNext()) {
-			
-		System.out.println(itr.next());
-		} 
+//		Iterator<String>itr=al.iterator();
+//		while(itr.hasNext()) {
+//			
+//		System.out.println(itr.next());
+//		} 
+		
+		for(int i=0;i<al.size();i++)
+		{
+			System.out.println(al.get(i));
+		}
 		
 
 	}
